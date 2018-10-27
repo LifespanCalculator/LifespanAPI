@@ -1,8 +1,8 @@
 {
-    "version":"1.2",
+    "version":"1.0",
     "questions":[
         {
-            "faq":"How fat are you1?",
+            "faq":"This is a test?",
             "option1":"A few extra pounds",
             "score1":"30",
             "option2":"A little",
