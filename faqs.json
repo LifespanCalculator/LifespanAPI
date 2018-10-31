@@ -41,16 +41,16 @@
             "score5":"-5"
         },
         {
-            "faq":"How fat are you4?",
-            "option1":"A few extra pounds",
+            "faq":"Which option better describe your eating habits?",
+            "option1":"I'm living on fast food",
             "score1":"30",
-            "option2":"A little",
+            "option2":"T'm vegetarian",
             "score2":"40",
-            "option3":"Obese",
+            "option3":"Meat Eater",
             "score3":"10",
-            "option4":"Normal",
+            "option4":"I follow a balanced diet chart",
             "score4":"50",
-            "option5":"Skinny",
+            "option5":"I prefer switching between fast food and healthy foods",
             "score5":"20"
         },
         {
