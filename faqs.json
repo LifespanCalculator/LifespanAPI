@@ -28,17 +28,17 @@
             "score5":"20"
         },
         {
-            "faq":"How fat are you3?",
-            "option1":"A few extra pounds",
-            "score1":"30",
-            "option2":"A little",
-            "score2":"40",
-            "option3":"Obese",
-            "score3":"10",
-            "option4":"Normal",
-            "score4":"50",
-            "option5":"Skinny",
-            "score5":"20"
+            "faq":"What level of education do you have?",
+            "option1":"Between 6 to 12 years of education",
+            "score1":"-3",
+            "option2":"17 or more years of education",
+            "score2":"2.7",
+            "option3":"Between 13 to 16 years of education",
+            "score3":"1.5",
+            "option4":"5 or fewer years of education",
+            "score4":"-4",
+            "option5":"None",
+            "score5":"-5"
         },
         {
             "faq":"How fat are you4?",
