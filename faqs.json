@@ -29,15 +29,15 @@
         {
             "faq":"What level of education do you have?",
             "option1":"Between 6 to 12 years of education",
-            "score1":"-3",
+            "score1":"2n_-3",
             "option2":"17 or more years of education",
-            "score2":"2.7",
+            "score2":"2p_2.7",
             "option3":"Between 13 to 16 years of education",
-            "score3":"1.5",
+            "score3":"2p_1.5",
             "option4":"5 or fewer years of education",
-            "score4":"-4",
+            "score4":"2n_-4",
             "option5":"None",
-            "score5":"-5"
+            "score5":"2n_-5"
         },
         {
             "faq":"Which option better describe your eating habits?",
