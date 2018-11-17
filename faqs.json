@@ -3,80 +3,80 @@
         {
             "faq":"Do you Smoke?",
             "option1":"I quit less than a year ago",
-            "score1":"0p_-1",
+            "score1":"p0|-1",
             "option2":"Yes, more than one pack a day",
-            "score2":"0n_-6",
+            "score2":"n0|-6",
             "option3":"Yes, one Pack or less a day",
-            "score3":"0n_-4",
+            "score3":"n0|-4",
             "option4":"I do not smoke",
-            "score4":"0p_2",
+            "score4":"p0|_2",
             "option5":"I quit more than a year ago",
-            "score5":"0p_1"
+            "score5":"p0|_1"
         },
         {
             "faq":"Do you drink alcohol?",
             "option1":"Never",
-            "score1":"1p_0",
+            "score1":"p1|0",
             "option2":"I get drunk once in a while",
-            "score2":"1n_-1",
+            "score2":"n1|-1",
             "option3":"A small glass of red wine in a day",
-            "score3":"1p_1",
+            "score3":"p1|1",
             "option4":"I get drunk every weekend",
-            "score4":"1n_-3",
+            "score4":"n1|-3",
             "option5":"I am an alcoholic",
-            "score5":"1n_-5"
+            "score5":"n1|-5"
         },
         {
             "faq":"What level of education do you have?",
             "option1":"Between 6 to 12 years of education",
-            "score1":"2n_-3",
+            "score1":"n2|-3",
             "option2":"17 or more years of education",
-            "score2":"2p_2.7",
+            "score2":"p2|2.7",
             "option3":"Between 13 to 16 years of education",
-            "score3":"2p_1.5",
+            "score3":"p2|1.5",
             "option4":"5 or fewer years of education",
-            "score4":"2n_-4",
+            "score4":"n2|-4",
             "option5":"None",
-            "score5":"2n_-5"
+            "score5":"n2|-5"
         },
         {
             "faq":"Which option better describe your eating habits?",
             "option1":"I'm living on fast food",
-            "score1":"3n_-4",
+            "score1":"n3|-4",
             "option2":"I'm vegetarian",
-            "score2":"3p_0",
+            "score2":"p3|0",
             "option3":"Meat Eater",
-            "score3":"3n_-2",
+            "score3":"n3|-2",
             "option4":"I follow a balanced diet chart",
-            "score4":"3p_5",
+            "score4":"p3|5",
             "option5":"I prefer switching between fast food and healthy foods",
-            "score5":"3n_-2"
+            "score5":"n3|-2"
         },
         {
             "faq":"How happy are you?",
             "option1":"Very happy",
-            "score1":"4p_4",
+            "score1":"p4|4",
             "option2":"Depressed",
-            "score2":"4n_-4",
+            "score2":"n4|-4",
             "option3":"A little happy",
-            "score3":"4p_2",
+            "score3":"p4|2",
             "option4":"A little sad",
-            "score4":"4n_-1",
+            "score4":"n4|-1",
             "option5":"I can't complain",
-            "score5":"4n_0"
+            "score5":"n4|0"
         },
         {
             "faq":"Do you exercise regularly?",
             "option1":"Yes, It's my hobby",
-            "score1":"5p_5",
+            "score1":"p5|5",
             "option2":"No, I don't have time for these",
-            "score2":"5n_-4",
+            "score2":"n5|-4",
             "option3":"Once in a week",
-            "score3":"5n_-1",
+            "score3":"n5|-1",
             "option4":"Not everyday but mostly",
-            "score4":"5p_3",
+            "score4":"p5|_3",
             "option5":"I am planning",
-            "score5":"5n_-2"
+            "score5":"n5|-2"
         }
 
 
