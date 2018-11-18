@@ -9,9 +9,9 @@
             "option3":"Yes, one Pack or less a day",
             "score3":"n0|-4",
             "option4":"I do not smoke",
-            "score4":"p0|_2",
+            "score4":"p0|2",
             "option5":"I quit more than a year ago",
-            "score5":"p0|_1"
+            "score5":"p0|1"
         },
         {
             "faq":"Do you drink alcohol?",
@@ -74,7 +74,7 @@
             "option3":"Once in a week",
             "score3":"n5|-1",
             "option4":"Not everyday but mostly",
-            "score4":"p5|_3",
+            "score4":"p5|3",
             "option5":"I am planning",
             "score5":"n5|-2"
         }
