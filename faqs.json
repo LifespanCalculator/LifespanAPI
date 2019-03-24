@@ -77,6 +77,19 @@
             "score4":"p5|3",
             "option5":"I am planning",
             "score5":"n5|-2"
+        },
+        {
+            "faq":"What best describes your family history?",
+            "option1":"One or more family members lived more than 95 years",
+            "score1":"p6|3",
+            "option2":"2 or more family members with Alzheimer/Heart/Diabetes/Kidney problems before age 55",
+            "score2":"n6|-4",
+            "option3":"Family members lived to age 70 with no Alzheimer/Heart/Diabetes/Kidney problems before age 55",
+            "score3":"p6|1",
+            "option4":"Average lifespan with no such chronic diseases",
+            "score4":"p6|2",
+            "option5":"Not sure",
+            "score5":"p6|0"
         }
 
 
